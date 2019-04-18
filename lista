@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1713
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="BAND CAMPINAS" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND CAMPINAS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20797
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="BAND CAMPINAS HD" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20798
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="http://img.starbr.in/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais Abertos",BAND HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1108
+#EXTINF:-1 tvg-id="CNT" tvg-name="CNT" tvg-logo="http://img.starbr.in/1552656072_5bc7318c153f7f4e2fba6f1f1dd9d6b19b0fb065.png" group-title="Canais Abertos",CNT
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18031
+#EXTINF:-1 tvg-id="Cultura" tvg-name="CULTURA" tvg-logo="http://img.starbr.in/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.png" group-title="Canais Abertos",CULTURA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2505
+#EXTINF:-1 tvg-id="Cultura" tvg-name="CULTURA HD" tvg-logo="http://img.starbr.in/1516303892_b30968dffae882d4a4d4fec70bce4522999acdea.png" group-title="Canais Abertos",CULTURA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20804
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20803
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD 1" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38735
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD 2" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38736
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD 3" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38737
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD 4" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1029
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD+" tvg-logo="http://img.starbr.in/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.png" group-title="Canais Abertos",FUTURA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38484
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17121
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/21804
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 1" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38664
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 2" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38665
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 3" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38666
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 4" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2512
+#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO BRASILIA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22363
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://img.starbr.in/1552659328_975db26bcb6e21109aeb9856a9fa15766aca12b3.png" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17962
+#EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://img.starbr.in/1552659328_975db26bcb6e21109aeb9856a9fa15766aca12b3.png" group-title="Canais Abertos",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/20811
+#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://img.starbr.in/1552659328_975db26bcb6e21109aeb9856a9fa15766aca12b3.png" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17852
+#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://img.starbr.in/1552659328_975db26bcb6e21109aeb9856a9fa15766aca12b3.png" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17853
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="http://img.starbr.in/1552659328_975db26bcb6e21109aeb9856a9fa15766aca12b3.png" group-title="Canais Abertos",GLOBO EPTV SAO CARLOS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18035
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="http://img.starbr.in/1517850037_2ea2a89ca5ef3d787edf4974f375dfcaf1b3c411.png" group-title="Canais Abertos",GLOBO INTER TV CABUGI
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16209
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17129
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG HD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/21803
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 1" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38654
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 2" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38655
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 3" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38656
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD 4" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2412
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MG SD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO MG SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22367
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17130
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 1" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38667
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 2" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38668
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD 3" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38669
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE SD 4" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/15405
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO NORDESTE SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22371
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://img.starbr.in/1516309333_973dc34e63c1522fbb58b1a30e3342b23e822eab.jpg" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/968
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO REDE AMAZONICA HD" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38452
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO REDE AMAZONICA SD 1" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38670
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO REDE AMAZONICA SD 2" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38671
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO REDE AMAZONICA SD 3" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/9580
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO REDE AMAZONICA SD 4" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/40436
+#EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO REDE AMAZONICA SD+" tvg-logo="http://img.starbr.in/1516309483_735a74b4adb0e362e860525a83da78fbe808dbfd.jpg" group-title="Canais Abertos",GLOBO REDE AMAZONICA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38451
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1207
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/21801
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD 1" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38661
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD 2" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38662
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD 3" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38663
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD 4" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2508
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO RJ SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22209
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://img.starbr.in/1552700405_db496843decfd2bfb7cd6e126398a7ff24fb17c7.png" group-title="Canais Abertos",GLOBO RPC CURITIBA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18032
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/17122
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/21800
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD 1" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38657
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD 2" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38658
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD 3" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38659
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD 4" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP SD 4
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1024
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD+" tvg-logo="http://img.starbr.in/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.png" group-title="Canais Abertos",GLOBO SP SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/22359
+#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA" tvg-logo="http://img.starbr.in/1516309728_c8f74e65175084144128b6b1cdec66c654fcb178.jpg" group-title="Canais Abertos",GLOBO TV ANHANGUERA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2511
+#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO TV BAHIA" tvg-logo="http://img.starbr.in/1552700674_f252caae959572d82cf29f3417007f2babdafcd7.png" group-title="Canais Abertos",GLOBO TV BAHIA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/19420
+#EXTINF:-1 tvg-id="TV CENTRO AMERICA" tvg-name="GLOBO TV CENTRO AMERICA" tvg-logo="http://img.starbr.in/1552700778_662a22e9cece01bd6dc9dc0edab28b42d487417f.png" group-title="Canais Abertos",GLOBO TV CENTRO AMERICA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18036
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ES" tvg-logo="http://img.starbr.in/1535895918_225194832c2ee84b397d6f886bc90e6c9521a935.png" group-title="Canais Abertos",GLOBO TV GAZETA ES
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24485
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ES HD" tvg-logo="http://img.starbr.in/1535895918_225194832c2ee84b397d6f886bc90e6c9521a935.png" group-title="Canais Abertos",GLOBO TV GAZETA ES HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24484
+#EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://img.starbr.in/1517850963_7a5ca0031c6a16d93a0f7ce5bedc84ecd7b96b2e.jpg" group-title="Canais Abertos",GLOBO TV LIBERAL BELEM
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/16217
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://img.starbr.in/1552700906_1777bdf3781ae229f7adeb3d403e3571f60017e8.png" group-title="Canais Abertos",GLOBO TV TEM BAURU
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24482
+#EXTINF:-1 tvg-id="TV Rio Preto SJRP" tvg-name="GLOBO TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://img.starbr.in/1552700906_1777bdf3781ae229f7adeb3d403e3571f60017e8.png" group-title="Canais Abertos",GLOBO TV TEM SAO JOSE DO RIO PRETO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18038
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="http://img.starbr.in/1552700906_1777bdf3781ae229f7adeb3d403e3571f60017e8.png" group-title="Canais Abertos",GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/24483
+#EXTINF:-1 tvg-id="TV Vanguarda SJC" tvg-name="GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS" tvg-logo="http://img.starbr.in/1552701104_7ef0a1d7361c07fdfde9f10ec26088431cb94f6c.png" group-title="Canais Abertos",GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18039
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="GLOBO TV VERDES MARES" tvg-logo="http://img.starbr.in/1516310368_d0d69b49778b45e6e8a2c577545ad880e98fd290.png" group-title="Canais Abertos",GLOBO TV VERDES MARES
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/9583
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="IDEAL TV" tvg-logo="http://img.starbr.in/1516311942_1302d76c455434caa25aab1c21f3484da662d29a.png" group-title="Canais Abertos",IDEAL TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2491
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://img.starbr.in/1516319421_c56ca4d0d282ee259bee00a383b3ea8771d1f0fb.png" group-title="Canais Abertos",NBR
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2494
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD BA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29367
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA HD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD BA HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38835
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA SD 1" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD BA SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38836
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA SD 2" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD BA SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29366
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA SD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD BA SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38431
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD DF HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD DF HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29364
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD DF HD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD DF HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38779
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD DF SD 1" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD DF SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38780
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD DF SD 2" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD DF SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29365
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD DF SD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD DF SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38418
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD MG HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29369
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG HD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD MG HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38781
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG SD 1" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD MG SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38782
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG SD 2" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD MG SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29368
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG SD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD MG SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38430
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29371
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ HD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38766
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ SD 1" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38767
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ SD 2" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29370
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ SD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RJ SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38419
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RS HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29373
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS HD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RS HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38837
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS SD 1" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RS SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38838
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS SD 2" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RS SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/29372
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS SD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD RS SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38433
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FULL HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP FULL HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/26013
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1210
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38764
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP SD 1" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38765
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP SD 2" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1710
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP SD+" tvg-logo="http://img.starbr.in/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais Abertos",RECORD SP SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38429
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL RBTV" tvg-logo="http://img.starbr.in/1552701627_7779fbab6ffb1c813337d4883674ed00d849f2af.png" group-title="Canais Abertos",REDE BRASIL RBTV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37851
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais Abertos",REDE TV
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/963
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV HD" tvg-logo="http://img.starbr.in/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais Abertos",REDE TV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2406
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT DIFUSORA" tvg-logo="http://img.starbr.in/1546965284_027fe60dcbb388d8cfeebc0c16a69ebdd33400f6.png" group-title="Canais Abertos",SBT DIFUSORA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37793
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/1208
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD+" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT HD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38919
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 1" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT SD 1
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38920
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 2" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT SD 2
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38921
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 3" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT SD 3
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/955
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD+" tvg-logo="http://img.starbr.in/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.png" group-title="Canais Abertos",SBT SD+
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38450
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV CIDADE VERDE" tvg-logo="http://img.starbr.in/1546966191_52131db94fd5d6a623603f57ab6b87f4575d8b02.jpg" group-title="Canais Abertos",SBT TV CIDADE VERDE
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37796
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV JORNAL" tvg-logo="http://img.starbr.in/1546966031_dbba08e5253451f40cacf8c4ec2da8302da1d507.jpg" group-title="Canais Abertos",SBT TV JORNAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37795
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV SERRA DOURADA" tvg-logo="http://img.starbr.in/1547079453_a6cbe504e675797024a03528878987bd2f19f603.png" group-title="Canais Abertos",SBT TV SERRA DOURADA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37843
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV SERRA DOURADA HD" tvg-logo="http://img.starbr.in/1547079453_a6cbe504e675797024a03528878987bd2f19f603.png" group-title="Canais Abertos",SBT TV SERRA DOURADA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37842
+#EXTINF:-1 tvg-id="SescTV" tvg-name="SESC TV HD" tvg-logo="http://img.starbr.in/1516325090_9d096efad6628587c43586e99b0c2ea9038ab263.png" group-title="Canais Abertos",SESC TV HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/953
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC INTERNATIONAL" tvg-logo="http://img.starbr.in/1516325174_3b17ad7b795246982d2c7f9a014044062fe77902.jpg" group-title="Variedades e Musicas",SIC INTERNATIONAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/952
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL" tvg-logo="http://img.starbr.in/1516362459_9ece7586b661712fd16d5e620986f12e5034f0c2.png" group-title="Canais Abertos",TV BRASIL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/915
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CAMARA" tvg-logo="http://img.starbr.in/1552701941_220b778f59dc5f9624d05b71a450639c8890548e.png" group-title="Canais Abertos",TV CAMARA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18042
+#EXTINF:-1 tvg-id="TV GERAL" tvg-name="TV GERAL" tvg-logo="http://img.starbr.in/1516363263_58e1a6f2e59d0ce12b9041d95adfca619e1c22c0.png" group-title="Canais Abertos",TV GERAL
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2413
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTICA" tvg-logo="http://img.starbr.in/1552702032_6abcdc089df4e81ebbca0e90e338dc4ddc6af5b1.png" group-title="Canais Abertos",TV JUSTICA
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18041
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTICA HD" tvg-logo="http://img.starbr.in/1552702032_6abcdc089df4e81ebbca0e90e338dc4ddc6af5b1.png" group-title="Canais Abertos",TV JUSTICA HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/37787
+#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTICA SHD" tvg-logo="http://img.starbr.in/1552702032_6abcdc089df4e81ebbca0e90e338dc4ddc6af5b1.png" group-title="Canais Abertos",TV JUSTICA SHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/38480
+#EXTINF:-1 tvg-id="TV Senado" tvg-name="TV SENADO" tvg-logo="http://img.starbr.in/1552702115_f19582c6d8d42054343a3acc5c86829ade47cdeb.jpg" group-title="Canais Abertos",TV SENADO
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/18040
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE" tvg-logo="http://img.starbr.in/1516364124_83e17ed8cb85145d51af2dde51cfb05b4bf2038b.png" group-title="Canais Abertos",TVE
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://lista.digitalgroup.me:80/nobre/nobre/2507
